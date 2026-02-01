@@ -5,8 +5,6 @@ Aplikacja mobilna umożliwiająca rejestrowanie spacerów użytkownika.
 Podczas spaceru zbierane są dane o czasie, dystansie, liczbie kroków
 oraz zdjęcia wykonywane w trakcie aktywności.
 
-Do projektu dołączono plik APK umożliwiający testowanie aplikacji bez Android Studio.
-
 ## Wykorzystane sensory i źródła danych
 - GPS – lokalizacja, dystans, prędkość
 - Sensor kroków (krokomierz)
